@@ -1,0 +1,19 @@
+[color]
+
+gradient = 1
+
+gradient_color_1 = '#8A5AD0'
+gradient_color_2 = '#A181D0'
+gradient_color_3 = '#AA90D0'
+gradient_color_4 = '#AA90D0'
+gradient_color_5 = '#BDB1D0'
+gradient_color_6 = '#BDB1D0'
+gradient_color_7 = '#D0C5DF'
+gradient_color_8 = '#D0C5DF'
+# gradient_color_2 = '#FF79C6'
+# gradient_color_3 = '#FF6E6E'
+# gradient_color_4 = '#F1FA8C'
+# gradient_color_5 = '#69FF94'
+# gradient_color_6 = '#8BE9FD'
+# gradient_color_7 = '#6272A4'
+# gradient_color_8 = '#F8F8F2'
