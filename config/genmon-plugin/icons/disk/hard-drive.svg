@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   class="feather feather-hard-drive"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="hard-drive.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16.410077"
+     inkscape:cx="13.314989"
+     inkscape:cy="10.146204"
+     inkscape:window-width="1322"
+     inkscape:window-height="687"
+     inkscape:window-x="10"
+     inkscape:window-y="47"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <line
+     x1="18.545616"
+     y1="10.053294"
+     x2="1.4267006"
+     y2="10.053294"
+     id="line2"
+     style="stroke-width:1.71189;stroke:#dfdfdf;stroke-opacity:1" />
+  <path
+     d="M 4.3797134,4.1558289 1.4267006,10.053295 v 5.135674 a 1.7118915,1.7118915 0 0 0 1.7118915,1.711892 H 16.833724 a 1.7118915,1.7118915 0 0 0 1.711892,-1.711892 V 10.053295 L 15.592603,4.1558289 A 1.7118915,1.7118915 0 0 0 14.06046,3.2057291 H 5.9118563 A 1.7118915,1.7118915 0 0 0 4.3797134,4.1558289 Z"
+     id="path4"
+     style="stroke-width:1.71189;stroke:#dfdfdf;stroke-opacity:1" />
+  <line
+     x1="4.8504839"
+     y1="13.477077"
+     x2="4.8590436"
+     y2="13.477077"
+     id="line6"
+     style="stroke-width:1.71189;stroke:#dfdfdf;stroke-opacity:1" />
+  <line
+     x1="8.2742662"
+     y1="13.477077"
+     x2="8.2828264"
+     y2="13.477077"
+     id="line8"
+     style="stroke-width:1.71189;stroke:#dfdfdf;stroke-opacity:1" />
+</svg>
