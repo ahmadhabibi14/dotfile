@@ -1,0 +1,10 @@
+shadow_delta_height=2
+shadow_delta_width=0
+shadow_delta_x=0
+shadow_delta_y=-2
+shadow_opacity=80
+show_app_icon=false
+
+full_width_title=true
+title_vertical_offset_active=-25
+title_vertical_offset_inactive=-25
