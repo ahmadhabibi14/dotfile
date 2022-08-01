@@ -12,4 +12,4 @@
 * **Cava**
 * **Ncmpcpp**
 
-<img src="images/screenshot/006.png" width="100%" />
+<img src="images/screenshot/007.png" width="100%" />
