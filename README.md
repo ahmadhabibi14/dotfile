@@ -25,4 +25,4 @@
 * **Cava**
 * **Ncmpcpp**
 
-<img src="images/screenshot/008.png" width="100%" />
+<img src="images/screenshot/008.png" width="100%" /> ![](images/screenshot/008.png)
