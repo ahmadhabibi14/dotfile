@@ -1,0 +1,60 @@
+@import 'colors.css';
+
+* {
+	-ThunarAbstractIconView-row-spacing: 10;
+	-ThunarAbstractIconView-column-spacing: 10;
+}
+
+#applicationmenu-button {
+	padding: 0 10px;
+}
+
+.xfce4-panel {
+	color: #efefef !important;
+}
+
+.xfce4-panel button {
+	border: none;
+	border-radius: 0;
+	background-color: inherit;
+	padding: 0 10px;
+}
+
+.xfce4-panel button:hover {
+	background-color: #272831;
+}
+
+VteTerminal, vte-terminal {
+	padding: 15px;
+}
+
+#clock-button {
+	background-color: #56b6c2;
+	color: #dfdfdf;
+}
+
+.genmon_plugin button {
+	padding: 0 8px;
+}
+
+.genmon_plugin {
+	padding: 0 10px;
+}
+
+#pager-4 grid {
+	background-color: #252631;
+	color: #efefef;
+}
+#pager-4 button {
+	font-size: 22px;
+}
+#pager-4 button:checked
+{
+	box-shadow: none;
+	background-color: #98c379;
+	color: #efefef;
+}
+
+#launcher-20 button{
+	background-color: #d86871;
+}
