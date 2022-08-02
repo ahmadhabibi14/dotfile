@@ -1,4 +1,4 @@
-# dotfile
+# DOTFILES
 
 ### Color Scheme
 * **#1a1b26**
