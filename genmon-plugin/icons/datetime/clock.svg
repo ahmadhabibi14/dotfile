@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   class="feather feather-clock"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="clock.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="21.458333"
+     inkscape:cx="12.046602"
+     inkscape:cy="12.023301"
+     inkscape:window-width="1346"
+     inkscape:window-height="644"
+     inkscape:window-x="8"
+     inkscape:window-y="41"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <circle
+     cx="12"
+     cy="12"
+     r="10"
+     id="circle2"
+     style="fill:none;fill-opacity:1;stroke:#d86871;stroke-opacity:1" />
+  <polyline
+     points="12 6 12 12 16 14"
+     id="polyline4"
+     style="stroke:#d86871;stroke-opacity:1" />
+</svg>

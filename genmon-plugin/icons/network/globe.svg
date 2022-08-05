@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   class="feather feather-globe"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="globe.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="17.694874"
+     inkscape:cx="10.087667"
+     inkscape:cy="8.7595991"
+     inkscape:window-width="1346"
+     inkscape:window-height="644"
+     inkscape:window-x="8"
+     inkscape:window-y="41"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <circle
+     cx="12"
+     cy="12"
+     r="10.909091"
+     id="circle2"
+     style="stroke:#e5c07b;stroke-width:2.18182;stroke-opacity:1" />
+  <line
+     x1="1.0909086"
+     y1="12"
+     x2="22.909092"
+     y2="12"
+     id="line4"
+     style="stroke:#e5c07b;stroke-width:2.18182;stroke-opacity:1" />
+  <path
+     d="M 12,1.0909086 A 16.69091,16.69091 0 0 1 16.363636,12 16.69091,16.69091 0 0 1 12,22.90909 16.69091,16.69091 0 0 1 7.6363633,12 16.69091,16.69091 0 0 1 12,1.0909086 Z"
+     id="path6"
+     style="stroke:#e5c07b;stroke-width:2.18182;stroke-opacity:1" />
+</svg>
