@@ -1,0 +1,91 @@
+@import 'colors.css';
+
+* {
+	-ThunarAbstractIconView-row-spacing: 10;
+	-ThunarAbstractIconView-column-spacing: 10;
+}
+
+#applicationmenu-button {
+	padding: 0 9px;
+	background-color: #61afef;
+/*	margin: 3px; */
+}
+
+.xfce4-panel {
+	color: #efefef !important;
+}
+
+.xfce4-panel button {
+	border: none;
+	border-radius: 5px;
+	background-color: inherit;
+	padding: 0 10px;
+	margin: 3px;
+}
+
+.xfce4-panel button:hover {
+	background-color: #333851;
+}
+
+VteTerminal, vte-terminal {
+	padding: 15px;
+}
+
+#clock-button {
+	background-color: #56b6c2;
+	color: #dfdfdf;
+}
+
+.genmon_plugin button {
+	padding: 0 8px;
+}
+
+.genmon_plugin {
+	padding: 0 10px;
+}
+
+#pager-4 grid {
+	color: #efefef;
+}
+#pager-4 button {
+	margin: 3px;
+	font-size: 25px;
+	background-color: #2a2e43;
+}
+#pager-4 button:checked	{
+	background-color: #98c379;
+	color: #1a1b26;
+}
+
+#launcher-20 button{
+	background-color: #d86871;
+}
+
+.tasklist {
+	margin: 3px;
+	background-color: #2a2e43;
+}
+
+.tasklist button {
+	padding: 0 10px;
+}
+
+.tasklist button image {
+	margin-left: -999999px;
+}
+
+.tasklist button:checked {
+	background-color: #e5c07b;
+	color: #1a1b26;
+}
+
+.genmon_plugin {
+	border-radius: 5px;
+	background-color: #2a2e43;
+	padding: 0 10px;
+	margin: 3px;
+}
+
+#pulseaudio_plugin {
+	background-color: #2a2e43;
+}
