@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   role="img"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Manjaro.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect899"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2.7233825,0,1 @ F,0,0,1,0,2.3587454,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.3856227,0,1 @ F,0,0,1,0,2.3670789,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="18.539431"
+     inkscape:cx="13.61962"
+     inkscape:cy="12.486899"
+     inkscape:window-width="1366"
+     inkscape:window-height="691"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2" />
+  <path
+     d="M 0,2.7233825 V 21.641255 A 2.3587454,2.3587454 45 0 0 2.3587454,24 H 6.75 V 6.75 h 8.625 V 0 H 2.7233825 A 2.7233825,2.7233825 135 0 0 0,2.7233825 Z M 8.625,8.625 V 24 h 6.75 V 8.625 Z M 17.25,0 v 24 h 4.364377 A 2.3856227,2.3856227 135 0 0 24,21.614377 V 2.3670789 A 2.3670789,2.3670789 45 0 0 21.632921,0 Z"
+     id="path4"
+     style="fill:#98c379;fill-opacity:1"
+     inkscape:path-effect="#path-effect899"
+     inkscape:original-d="M 0,0 V 24 H 6.75 V 6.75 h 8.625 V 0 Z M 8.625,8.625 V 24 h 6.75 V 8.625 Z M 17.25,0 V 24 H 24 V 0 Z" />
+</svg>

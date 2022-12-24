@@ -1,0 +1,79 @@
+ /*
+    #docklike-plugin
+	    .group
+	    .open_group
+	    .active_group
+	    .window_count
+	    .menu
+	    .active_menu_item
+	    .hover_menu_item
+*/
+
+#launcher-7 button {
+	border-radius: 3px 0 0 3px;
+	background-color: #D86871;
+}
+
+#whiskermenu-button,
+#applicationmenu-button,
+#launcher-13 button {
+	margin: 3px;
+	border-radius: 3px;
+}
+
+#whiskermenu-button:hover,
+#applicationmenu-button:hover,
+#launcher-13 button:hover {
+	background-color: #252630;
+}
+
+.xfce4-panel button {
+	border-top: none;
+/*  border-radius: 3px; */
+	background-color: inherit;
+	padding: 0 5px;
+/*	margin: 3px; */
+}
+
+#clock-button {
+	border-radius: 0 3px 3px 0;
+	color: #1a1b26;
+	background-color: #98C379;
+}
+
+VteTerminal, vte-terminal {
+	padding: 5px 10px;
+}
+
+.tasklist {
+	background-color: #2a2e43;
+}
+
+.tasklist button {
+	padding: 0 10px;
+}
+
+.tasklist button image {
+	margin-left: -999999px;
+}
+
+.tasklist button:checked {
+	background-color: #61afef;
+	color: #1a1b26;
+  border: none;
+}
+
+#pager-4 grid {
+	color: #efefef;
+	font-size: 15px;
+}
+#pager-4 button {
+	border-radius: 3px;
+	font-weight: bold;
+	background-color: inherit;
+	padding: 0 8px;
+}
+#pager-4 button:checked	{
+	background-color: #61AFEF;
+	color: #1a1b26;
+}

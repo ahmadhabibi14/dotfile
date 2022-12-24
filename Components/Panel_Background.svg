@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1366"
+   height="80"
+   viewBox="0 0 361.42085 21.166667"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="Panel_Background.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="Panel_Background.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.55"
+     inkscape:cx="623.63636"
+     inkscape:cy="147.27273"
+     inkscape:window-width="1332"
+     inkscape:window-height="624"
+     inkscape:window-x="10"
+     inkscape:window-y="42"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="slice"
+       start_point="197.42706,40.689627"
+       end_point="197.42706,81.166311"
+       center_point="197.42706,60.927969"
+       id="path-effect1286"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites="#path1288"
+       allow_transforms="true" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="106.2211,-8.3837007"
+       up_right_point="253.52562,-8.3837007"
+       down_left_point="136.22324,31.973319"
+       down_right_point="224.87504,32.092984"
+       id="path-effect1258"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="123.7748,40.689627"
+       up_right_point="271.07932,40.689627"
+       down_left_point="153.77694,81.046646"
+       down_right_point="242.42874,81.166311"
+       id="path-effect1258-3"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#15161e;fill-opacity:1;stroke:none;stroke-width:5.46069;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.4"
+       id="rect234"
+       width="361.42084"
+       height="21.166666"
+       x="0"
+       y="0" />
+    <path
+       style="fill:#252630;fill-opacity:1;stroke:none;stroke-width:20.9492;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.4"
+       id="rect1157"
+       width="147.30452"
+       height="40.361126"
+       x="106.2212"
+       y="-8.3837004"
+       inkscape:path-effect="#path-effect1258"
+       d="m 106.2211,-8.3837007 147.30452,0 -28.65058,40.4766847 -88.6518,-0.119665 z"
+       sodipodi:type="rect" />
+    <path
+       style="fill:#1a1b26;fill-opacity:1;stroke:none;stroke-width:20.9492;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.4"
+       id="rect1157-6"
+       width="147.30452"
+       height="40.361126"
+       x="123.7749"
+       y="40.689629"
+       inkscape:path-effect="#path-effect1258-3;#path-effect1286"
+       d="m 197.42706,40.689453 h -73.65167 l 30.00195,40.357422 43.64972,0.05866 z"
+       sodipodi:type="rect"
+       class="UnoptimicedTransforms"
+       transform="translate(-8.7415241,-48.346284)" />
+    <path
+       id="path1288"
+       d="m 197.42706,81.105536 45.00263,0.06048 28.65039,-40.476563 h -73.65302 z"
+       style="display:inline;fill:#1a1b26;fill-opacity:1;stroke:none;stroke-width:20.9492;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.4"
+       class="UnoptimicedTransforms"
+       transform="translate(-26.520284,-48.581001)" />
+  </g>
+</svg>
