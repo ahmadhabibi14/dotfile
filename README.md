@@ -11,4 +11,4 @@
 - **Shell**: bash
 
 
-<img src="images/screenshot/010.png" width="100%" />
+![My Dotties](/images/screenshot/010.png)
